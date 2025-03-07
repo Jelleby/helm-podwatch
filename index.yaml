@@ -2,6 +2,16 @@ apiVersion: v1
 entries:
   podwatch-operator:
   - apiVersion: v2
+    appVersion: 1.1.0
+    created: "2025-03-07T11:25:06.834473438Z"
+    description: A Helm chart for Kubernetes
+    digest: 4d99710ad02df9e8de00180afb2e07dc4f1723365e834b55add0e555cb7cbfd9
+    name: podwatch-operator
+    type: application
+    urls:
+    - https://github.com/Jelleby/helm-podwatch/releases/download/podwatch-operator-0.2.0/podwatch-operator-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v2
     appVersion: 1.0.0
     created: "2025-03-07T10:58:56.45782087Z"
     description: A Helm chart for Kubernetes
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://github.com/Jelleby/helm-podwatch/releases/download/podwatch-operator-0.1.0/podwatch-operator-0.1.0.tgz
     version: 0.1.0
-generated: "2025-03-07T10:58:56.457824617Z"
+generated: "2025-03-07T11:25:06.834481152Z"
